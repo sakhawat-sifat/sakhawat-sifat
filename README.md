@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sakhawat-sifat
-- 👀 I’m interested in web developing and digital marketing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on WordPress
 - 📫 How to reach me : sifat.fk@gmail.com
 
 <!---
